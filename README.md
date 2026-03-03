@@ -6,7 +6,7 @@ The application predicts house prices based on various property features such as
 
 ---
 
-## 🔍 Project Overview
+##Project Overview
 
 - Developed a regression-based machine learning model
 - Performed data cleaning and feature selection
@@ -15,7 +15,7 @@ The application predicts house prices based on various property features such as
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -27,7 +27,7 @@ The application predicts house prices based on various property features such as
 
 ---
 
-## 📊 Features Used for Prediction
+## Features Used for Prediction
 
 - Overall Quality  
 - Ground Living Area  
